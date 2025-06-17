@@ -1,0 +1,9 @@
+control_tower_parameters:
+  AccountEmail: s.ant.iagoh.ar.t.305@gmail.com
+  AccountName: scp-account-001
+  ManagedOrganizationalUnit: scpou
+  SSOUserEmail: devopstraining591@gmail.com
+  SSOUserFirstName: test
+  SSOUserLastName: user
+
+account_customizations_name: dev-account-customizations
